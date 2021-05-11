@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindIpInfo</string>
+    <string name="ip_text">İP ADRESİ İLE LOKASYON SORGUSU YAPABİLİRSİNİZ</string>
+    <string name="ip_header_text">İP ADRESİ İLE SORGULAMA</string>
+    <string name="ip_error_text">İP ADRESİ TÜRÜNDE DEĞER GİRİNİZ</string>
+    <string name="ip_query">SORGULA</string>
+    <string name="ip_show_location">KONUMUNU GÖSTER</string>
+    <string name="ip_learn_info">DETAYLI BİLGİ AL</string>
+    <string name="what_is_ip_address">İnternet ortamına bağlı olan yani network erişimine sahip, bağlı olduğu internet servis sağlayıcısı (ISS) tarafından tanımlanmış olan her bir cihazın bir kimlik kodu veya bir adı var diyebiliriz. Kısaltılmış hali ile görmüş olduğumuz IP kelimesinin açılımı ise internet protokol olarak anılmaktadır.
+        Her bir cihaz için 0-255 Aralığındaki numaralar ile oluşan 4 haneli rakamlardan meydana gelen bir yapıdır. Örnek vermek gerekirse 77.245.159.2 ip adresi örnek verilebilir.Ip adresi kullanılarak detaylı bilgiler öğrenilebilir </string>
+    <string name="textviewheader_info">BİLGİ</string>
+    <string name="textviewheader_countryname">ÜLKE</string>
+    <string name="textviewheader_countrycode">ÜLKE KODU</string>
+    <string name="textviewheader_region">BÖLGE</string>
+    <string name="textviewheader_regionname">BÖLGE ADI</string>
+    <string name="textviewheader_city">ŞEHİR</string>
+    <string name="textviewheader_zip">POSTA KODU</string>
+    <string name="textviewheader_lat">ENLEM</string>
+    <string name="textviewheader_lon">BOYLAM</string>
+    <string name="textviewheader_timezone">SAAT DİLİMİ</string>
+    <string name="textviewheader_org">ORG</string>
+    <string name="textview_what_is_ip_address">İP ADRESİ NEDİR ?</string>
+
+</resources>

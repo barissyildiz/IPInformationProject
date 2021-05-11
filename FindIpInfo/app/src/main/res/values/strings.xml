@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FindIpInfo</string>
+    <string name="ip_text">YOU CAN QUERY COUNTRY,COUNTRYMONEYNAME,LOCATİON WİTH İP ADDRESS</string>
+    <string name="ip_header_text">QUERY WİTH İP ADDRESS</string>
+    <string name="ip_error_text">it is not ip address type</string>
+    <string name="ip_query">QUERY</string>
+    <string name="ip_show_location">SHOW LOCATİON</string>
+    <string name="ip_learn_info">LEARN MORE İNFO</string>
+    <string name="what_is_ip_address">All devices that are connected to an internet connection have a unique IP address.An IP address consist of four sets of numbers from 0 to 255, separated by three dots. For example, 67.43.14.98 is an IP address.
+        Detail informations can be found by using IP address</string>
+    <string name="textviewheader_info">İNFO</string>
+    <string name="textviewheader_countryname">COUNTRY</string>
+    <string name="textviewheader_countrycode">COUNTRYCODE</string>
+    <string name="textviewheader_region">REGİON</string>
+    <string name="textviewheader_regionname">REGİONNAME</string>
+    <string name="textviewheader_city">CİTY</string>
+    <string name="textviewheader_zip">ZİP</string>
+    <string name="textviewheader_lat">LATİTUDE</string>
+    <string name="textviewheader_lon">LONGİTUDE</string>
+    <string name="textviewheader_timezone">TİMEZONE</string>
+    <string name="textviewheader_org">ORG</string>
+    <string name="textview_what_is_ip_address">WHAT İS İP ADDRESS ?</string>
+</resources>
